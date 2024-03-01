@@ -1,4 +1,4 @@
-GNU nano 5.4                                           handler.php *                                                  <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <link rel="apple-touch-icon" sizes="180x180" href="favicons/apple-touch-icon.png">
